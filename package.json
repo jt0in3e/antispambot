@@ -1,0 +1,29 @@
+{
+  "name": "antispam_telegram_bot",
+  "version": "0.0.1",
+  "description": "Telegram bot to block hostiles bot of Telegram groups",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "antispam",
+    "Telegram",
+    "Bot",
+    "API"
+  ],
+  "author": "YY",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "dotenv": "^5.0.1",
+    "mocha": "^5.1.1",
+    "sinon": "^5.0.7"
+  },
+  "dependencies": {
+    "telegraf": "^3.21.0"
+  }
+}
