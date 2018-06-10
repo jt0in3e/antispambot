@@ -1,6 +1,6 @@
 {
   "name": "antispam_telegram_bot",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Telegram bot to block hostiles bot of Telegram groups",
   "main": "app.js",
   "scripts": {
