@@ -18,7 +18,7 @@ Aim of the bot is to limit another bots to be added to managed Telegram groups a
 
 
 
-***If you need help write directly to [me on Telegram](http://t.me/yuraWD) (@yuraWD).***
+***If you need help write directly to the [Group on Telegram](https://t.me/againstspam).***
 
 
 
@@ -31,6 +31,3 @@ You could run you own bot. Just register on heroku.com, clone this repo, make yo
 `Credits`
 
 This bot works on great bot framework -> [Telegraf.js](https://telegraf.js.org). GitHub link -> https://github.com/telegraf/telegraf
-
-
-
