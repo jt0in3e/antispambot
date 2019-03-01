@@ -1,6 +1,6 @@
 ### Telegram antispam bot
 
-Aim of the bot is to limit another bots to be added to managed Telegram groups as well as restrict some functionalities of  newcomers (available only for superusers - see details [here](https://telegram.org/blog/supergroups)) .
+Aim of the bot is to limit another bots to be added to managed Telegram groups as well as restrict some functionalities of  newcomers (available only for supergroups - see details [here](https://telegram.org/blog/supergroups)) .
 
 ##### How it works?
 

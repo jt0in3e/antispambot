@@ -27,8 +27,8 @@ const telegram = new Telegram(TG_TOKEN);
 //to get bot ID -> it would be used to not remove bot by itself :)
 bot.telegram.getMe().then(botInfo => bot.options.id = botInfo.id);
 //start command
-bot.start((ctx) => ctx.reply("Welcome! \nLook at instructions\n https://yura321y.github.io/antispambot/.\nIf you need help, print/use command '/help' \nCheers 😜"));
-bot.help((ctx) => ctx.reply('Get help in the Group 👇\n join -> https://t.me/againstspam.\nHere is instructions 👇\n https://yura321y.github.io/antispambot/'));
+bot.start((ctx) => ctx.reply("Welcome! \nLook at instructions\n https://jt0in3e.github.io/antispambot/.\nIf you need help, print/use command '/help' \nCheers 😜"));
+bot.help((ctx) => ctx.reply('Get help in the Group 👇\n join -> https://t.me/againstspam.\nHere is instructions 👇\n https://jt0in3e.github.io/antispambot/'));
 
 //work with new chat members
 bot.on("new_chat_members", (ctx) => {
